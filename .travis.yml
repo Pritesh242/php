@@ -5,7 +5,7 @@ language: php
 php:asa
   # using major version aliases
 
-  # aliased to 5.2.17aasas
+  # aliased to 5.2.1asd7aasas
   - 5.2saasas
   # aliased to 5.3.29
   - 5.3sddas
