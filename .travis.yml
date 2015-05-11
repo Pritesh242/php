@@ -2,7 +2,7 @@
 language: php
 
 # list any PHP version you want to test against
-php:
+php:asa
   # using major version aliases
 
   # aliased to 5.2.17aasas
