@@ -6,7 +6,7 @@ class HelloWorld
      * @var PDO
      */
     private $pdo;
-
+ds
     public function __construct(PDO $pdo)
     {
         $this->pdo = $pdo;
