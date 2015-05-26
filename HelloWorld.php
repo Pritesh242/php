@@ -3,9 +3,9 @@
 class HelloWorld
 {
     /**
-     * @var PDO
+     * @var PDOftt
      */
-    private $pdo;
+    private $pdo;gyyj
 ds
     public function __construct(PDO $pdo)
     {
